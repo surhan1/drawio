@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1687" dy="885" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="1" adaptiveColors="auto">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="pRwvmZpkhUVEJQC-uLtn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="pRwvmZpkhUVEJQC-uLtn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;font face=&quot;Verdana&quot;&gt;Change email to a burner right before the deal and dont verify it&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="150" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pRwvmZpkhUVEJQC-uLtn-1" target="pRwvmZpkhUVEJQC-uLtn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-1" value="&lt;font face=&quot;Verdana&quot;&gt;Change email to a burner right before the deal and dont verify it&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;container=0;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="290" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;curved=0;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pRwvmZpkhUVEJQC-uLtn-3" target="pRwvmZpkhUVEJQC-uLtn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pRwvmZpkhUVEJQC-uLtn-3" target="pRwvmZpkhUVEJQC-uLtn-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-3" value="&lt;font face=&quot;Verdana&quot;&gt;Go to your original email, and use the revert changes link that roblox sent you&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="420" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-5" value="&lt;font face=&quot;Verdana&quot;&gt;Use roblox support to get the account back&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;container=0;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="420" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pRwvmZpkhUVEJQC-uLtn-6" target="pRwvmZpkhUVEJQC-uLtn-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pRwvmZpkhUVEJQC-uLtn-6" target="pRwvmZpkhUVEJQC-uLtn-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-6" value="&lt;font face=&quot;Verdana&quot;&gt;Change all the details on the account back to yours, add auth, passkeys, change password, log all other devices out, use a pin cracker if they added one, and generate fresh backup codes.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;container=0;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="580" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-9" value="&lt;font face=&quot;Verdana&quot;&gt;The account is now fully yours again&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;container=0;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="770" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-10" value="&lt;font face=&quot;Verdana&quot;&gt;Deactivate the account as soon as possible to avoid termination&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;container=0;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="605" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pRwvmZpkhUVEJQC-uLtn-17" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-17" value="&lt;font face=&quot;Verdana&quot;&gt;Sell your roblox account, use a trusted middleman&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=1;snapToPoint=0;fixDash=0;backgroundOutline=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="10" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-20" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 45px;&quot; face=&quot;Courier New&quot;&gt;ROBLOX REFUND METHOD&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="10" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-22" value="&lt;b style=&quot;font-family: Verdana; font-size: 14px;&quot;&gt;If they added auth&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="420" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-23" value="&lt;b style=&quot;font-family: Verdana; font-size: 14px;&quot;&gt;If they bought robux&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="600" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-24" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;shadow=1;strokeWidth=3;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="20" width="20" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="pRwvmZpkhUVEJQC-uLtn-26" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;High success rate&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="60" width="142" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
